@@ -12,17 +12,21 @@ SQLite 는 가볍고, 자체 포함적이며, 서버리스, 제로 설정, 트�
 
 |   인덱스 | 이름                                                                                                                      | 난이도   | 튜토리얼 링크                                                                                 |
 |----------|---------------------------------------------------------------------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------|
-|        1 | [📖 Linux 환경에서 SQLite 설정하기](https://labex.io/ko/tutorials/sqlite-setting-up-sqlite-in-linux-552335)               | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/sqlite-setting-up-sqlite-in-linux-552335)             |
-|        2 | [📖 SQLite 데이터베이스 생성 및 관리](https://labex.io/ko/tutorials/sqlite-creating-and-managing-sqlite-databases-552337) | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/sqlite-creating-and-managing-sqlite-databases-552337) |
-|        3 | [📖 SQLite 테이블 구축하기](https://labex.io/ko/tutorials/sqlite-building-tables-in-sqlite-552336)                        | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/sqlite-building-tables-in-sqlite-552336)              |
-|        4 | [📖 SQLite 데이터 다루기](https://labex.io/ko/tutorials/sqlite-working-with-data-in-sqlite-552340)                        | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/sqlite-working-with-data-in-sqlite-552340)            |
-|        5 | [📖 데이터 쿼리 및 필터링](https://labex.io/ko/tutorials/sqlite-querying-and-filtering-data-552338)                       | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/sqlite-querying-and-filtering-data-552338)            |
-|        6 | [📖 SQLite 제약 조건 관리](https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545)                      | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545)           |
-|        7 | [📖 SQLite 인덱스 최적화](https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552)                          | ★☆☆      | [🔗 View](https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552)              |
+|       01 | [📖 Linux 환경에서 SQLite 설정하기](https://labex.io/ko/tutorials/sqlite-setting-up-sqlite-in-linux-552335)               | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-setting-up-sqlite-in-linux-552335)             |
+|       02 | [📖 SQLite 테이블 구축하기](https://labex.io/ko/tutorials/sqlite-building-tables-in-sqlite-552336)                        | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-building-tables-in-sqlite-552336)              |
+|       03 | [📖 SQLite 데이터베이스 생성 및 관리](https://labex.io/ko/tutorials/sqlite-creating-and-managing-sqlite-databases-552337) | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-creating-and-managing-sqlite-databases-552337) |
+|       04 | [📖 데이터 쿼리 및 필터링](https://labex.io/ko/tutorials/sqlite-querying-and-filtering-data-552338)                       | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-querying-and-filtering-data-552338)            |
+|       05 | [📖 SQLite 데이터 다루기](https://labex.io/ko/tutorials/sqlite-working-with-data-in-sqlite-552340)                        | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-working-with-data-in-sqlite-552340)            |
+|       06 | [📖 SQLite 제약 조건 관리](https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545)                      | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545)           |
+|       07 | [📖 SQLite 인덱스 최적화](https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552)                          | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552)              |
+|       08 | [📖 Linux 에서 SQLite 설치 및 확인](https://labex.io/ko/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579)       | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-install-and-verify-sqlite-on-linux-552579)     |
+|       09 | [📖 연락처용 SQLite 데이터베이스 구축](https://labex.io/ko/tutorials/sqlite-build-sqlite-database-for-contacts-552582)    | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-build-sqlite-database-for-contacts-552582)     |
+|       10 | [📖 IT 부서 SQLite 데이터 필터링](https://labex.io/ko/tutorials/sqlite-filter-sqlite-data-for-it-department-552585)       | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-filter-sqlite-data-for-it-department-552585)   |
+|       11 | [📖 SQLite 에서 특정 데이터 쿼리하기](https://labex.io/ko/tutorials/sqlite-query-specific-data-in-sqlite-552586)          | 초급     | [🔗 View](https://labex.io/ko/tutorials/sqlite-query-specific-data-in-sqlite-552586)          |
 
 ## 더 보기
 
 - 🔗 [SQLite 자세히 알아보기](https://labex.io/ko/skilltrees/sqlite)
-- 🔗 [Awesome 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Awesome 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
 
