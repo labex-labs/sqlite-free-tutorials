@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/yNOqpRQSmPL4.png">
 </div>
 
-Learn SQLite, a lightweight, self-contained, and serverless SQL database engine. This learning path offers comprehensive SQLite courses designed for beginners and embedded application developers. It provides a structured roadmap to master SQL queries, data modeling, and local database management. Through a series of hands-on, non-video SQLite courses and practical exercises in an interactive SQL playground, learners gain real-world experience in building and querying embedded databases.
+Lernen Sie SQLite, eine leichtgewichtige, eigenständige und serverlose SQL-Datenbank-Engine. Dieser Lernpfad bietet umfassende SQLite-Kurse, die für Anfänger und Entwickler eingebetteter Anwendungen konzipiert sind. Er bietet einen strukturierten Fahrplan, um SQL-Abfragen, Datenmodellierung und lokales Datenbankmanagement zu meistern. Durch eine Reihe von praxisorientierten SQLite-Kursen ohne Videos und praktischen Übungen in einem interaktiven SQL-Spielplatz erhalten Lernende reale Erfahrungen beim Erstellen und Abfragen eingebetteter Datenbanken.
 
 |   Index | Name                                                                                                                                    | Schwierigkeit   | Tutorial-Link                                                                                 |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------|
